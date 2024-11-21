@@ -20,7 +20,7 @@ Esta parte do projeto utiliza o LangChain, uma poderosa biblioteca para criar ap
 Passo 1: Clone o repositório
 ~~~
   git clone https://github.com/seu-repositorio.git
-  cd tp2_parte2
+  cd tp2_datadriven_parte2
 ~~~
 Passo 2: Crie e ative o ambiente virtual
 ~~~
@@ -35,5 +35,6 @@ pip install -r requirements.txt
 
 Passo 4: Execute a aplicação
 ~~~
+cd parte_2_langchain
 python main.py
 ~~~
