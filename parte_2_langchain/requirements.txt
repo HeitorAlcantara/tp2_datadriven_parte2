@@ -1,0 +1,10 @@
+langchain
+langchain_community
+fastapi
+uvicorn
+httpie
+pydantic
+langchain_google_genai
+transformers
+torch
+sentencepiece
